@@ -16,6 +16,12 @@ Associate Professor and Mission Designer at the Institute of Space and Astronaut
 
 <!--- [Add a brief description of the visualization and your contribution.] --->
 
+### DESTINY+ Spiral Orbit Raising Trajectories
+
+![DESTINY+ trajectory visualization](assets/destiny_trajectory.png)
+
+<!--- [Add a brief description of the visualization and your contribution.] --->
+
 <!--- ### Spiral Orbit Raising and Lunar Flybys
 
 A trajectory visualization showing spiral orbit raising,
