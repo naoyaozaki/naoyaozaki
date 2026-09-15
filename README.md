@@ -1,4 +1,4 @@
-## 👋　Hi there, I'm Naoya Ozaki
+## 👋 Hi there, I'm Naoya Ozaki
 
 Associate Professor and Mission Designer at the Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency (JAXA).
 
